@@ -10,9 +10,8 @@ app.use(
     extended: true,
   })
 );
-const test = '';
 
-app.get('/', (req, res: Response) => {
+app.get('/', (req: Request, res: Response) => {
   res.send('All things working!');
 });
 
