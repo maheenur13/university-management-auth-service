@@ -12,7 +12,7 @@ app.use(
 );
 const test = '';
 
-app.get('/', (req: Request, res: Response) => {
+app.get('/', (req, res: Response) => {
   res.send('All things working!');
 });
 
