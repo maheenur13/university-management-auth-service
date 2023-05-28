@@ -10,6 +10,7 @@ app.use(
     extended: true,
   })
 );
+const test = '';
 
 app.get('/', (req: Request, res: Response) => {
   res.send('All things working!');
