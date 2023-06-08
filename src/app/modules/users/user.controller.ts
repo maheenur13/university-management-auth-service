@@ -1,7 +1,7 @@
-import { Request, Response } from 'express';
+import { RequestHandler } from 'express';
 import userService from './user.service';
 
-export const createUser = async (req: Request, res: Response) => {
+export const createUser: RequestHandler = async (req, res, next) => {
   try {
     const { user } = req.body;
     const result = await userService.createUserToDB(user);
@@ -13,9 +13,7 @@ export const createUser = async (req: Request, res: Response) => {
       });
     }
   } catch (error) {
-    res.status(400).json({
-      success: false,
-    });
+    next(error);
   }
 };
 

@@ -1,7 +1,5 @@
-import { Model, Schema, model } from 'mongoose';
-import { IUser } from './user.interface';
-
-type UserModel = Model<IUser, object>;
+import { Schema, model } from 'mongoose';
+import { IUser, IUserModel } from './user.interface';
 
 const userSchema = new Schema<IUser>(
   {
@@ -24,4 +22,4 @@ const userSchema = new Schema<IUser>(
   }
 );
 
-export const UserModel = model<IUser, UserModel>('Users', userSchema);
+export const UserModel = model<IUser, IUserModel>('Users', userSchema);

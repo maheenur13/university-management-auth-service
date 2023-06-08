@@ -1,6 +1,9 @@
-import express, { Application, Request, Response } from 'express';
+/* eslint-disable no-unused-vars */
 import cors from 'cors';
+import express, { Application, NextFunction, Request, Response } from 'express';
+import globalErrorHandler from './app/middlewares/globalErrorHandler';
 import userRouter from './app/modules/users/user.route';
+import ApiError from './errors/ApiError';
 const app: Application = express();
 
 app.use(cors());
@@ -14,8 +17,12 @@ app.use(
 
 app.use('/api/v1/user', userRouter);
 
-app.get('/', async (req: Request, res: Response) => {
-  res.send('All things working!');
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+app.get('/', (req: Request, res: Response, next: NextFunction) => {
+  throw new ApiError(400, 'An error occurred!');
 });
+
+//global error handler
+app.use(globalErrorHandler);
 
 export default app;
