@@ -1,9 +1,11 @@
 /* eslint-disable no-console */
 /* eslint-disable no-unused-expressions */
 import { ErrorRequestHandler } from 'express';
+import { ZodError } from 'zod';
 import config from '../../config';
 import ApiError from '../../errors/ApiError';
 import handleValidationError from '../../errors/handleValidationError';
+import handleZodError from '../../errors/handleZodError';
 import { IGenericErrorMessage } from '../../interfaces/errors';
 import { errLogger } from '../../shared/logger';
 
@@ -21,6 +23,11 @@ const globalErrorHandler: ErrorRequestHandler = (err, req, res, next) => {
     statusCode = simplifyError.statusCode;
     message = simplifyError.message;
     errorMessages = simplifyError.errorMessages;
+  } else if (err instanceof ZodError) {
+    const simplifiedError = handleZodError(err);
+    statusCode = simplifiedError.statusCode;
+    message = simplifiedError.message;
+    errorMessages = simplifiedError.errorMessages;
   } else if (err instanceof ApiError) {
     statusCode = err.statusCode;
     message = err.message;

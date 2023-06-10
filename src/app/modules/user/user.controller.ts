@@ -1,7 +1,7 @@
 import { RequestHandler } from 'express';
 import userService from './user.service';
 
-export const createUser: RequestHandler = async (req, res, next) => {
+const createUser: RequestHandler = async (req, res, next) => {
   try {
     const { user } = req.body;
     const result = await userService.createUserToDB(user);
@@ -17,6 +17,6 @@ export const createUser: RequestHandler = async (req, res, next) => {
   }
 };
 
-export default {
+export const UserController = {
   createUser,
 };

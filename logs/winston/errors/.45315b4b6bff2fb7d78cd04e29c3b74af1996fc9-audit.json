@@ -1,30 +1,40 @@
 {
-  "keep": {
-    "days": true,
-    "amount": 14
-  },
-  "auditLog": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\.45315b4b6bff2fb7d78cd04e29c3b74af1996fc9-audit.json",
-  "files": [
-    {
-      "date": 1685711963712,
-      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\um-2023-06-02-19-error.log",
-      "hash": "f46545b58379e282855a4356e8a026bc16cf901e71d66aa281e0d335b8988bf9"
+    "keep": {
+        "days": true,
+        "amount": 14
     },
-    {
-      "date": 1685714424062,
-      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\um-2023-06-02-20-error.log",
-      "hash": "c055b102e556ee504305faea167bf5da930a9b639660a02e47389e1cdd9547f9"
-    },
-    {
-      "date": 1685719301038,
-      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\um-2023-06-02-21-error.log",
-      "hash": "d12a56b04363eda0dc4a013734f97b3a533f5e13c69a18f767901b91f9dfc3e6"
-    },
-    {
-      "date": 1685721637229,
-      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\um-2023-06-02-22-error.log",
-      "hash": "bf45af9d3d1889b0094c2c34b473ab332212281aa3e7e21262790eb56c2ff5c3"
-    }
-  ],
-  "hashType": "sha256"
+    "auditLog": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\.45315b4b6bff2fb7d78cd04e29c3b74af1996fc9-audit.json",
+    "files": [
+        {
+            "date": 1685711963712,
+            "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\um-2023-06-02-19-error.log",
+            "hash": "f46545b58379e282855a4356e8a026bc16cf901e71d66aa281e0d335b8988bf9"
+        },
+        {
+            "date": 1685714424062,
+            "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\um-2023-06-02-20-error.log",
+            "hash": "c055b102e556ee504305faea167bf5da930a9b639660a02e47389e1cdd9547f9"
+        },
+        {
+            "date": 1685719301038,
+            "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\um-2023-06-02-21-error.log",
+            "hash": "d12a56b04363eda0dc4a013734f97b3a533f5e13c69a18f767901b91f9dfc3e6"
+        },
+        {
+            "date": 1685721637229,
+            "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\um-2023-06-02-22-error.log",
+            "hash": "bf45af9d3d1889b0094c2c34b473ab332212281aa3e7e21262790eb56c2ff5c3"
+        },
+        {
+            "date": 1686403339692,
+            "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\um-2023-06-10-19-error.log",
+            "hash": "3455d6543806d96b4ebd02855ed3c1f22d1ead6c7dbebda854d57cc90e5e9b39"
+        },
+        {
+            "date": 1686405646099,
+            "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\um-2023-06-10-20-error.log",
+            "hash": "a840f79ac68b78933f57648026d65c401447525776945719a1de2be612fdd699"
+        }
+    ],
+    "hashType": "sha256"
 }
