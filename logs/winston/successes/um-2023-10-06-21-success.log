@@ -10,3 +10,15 @@
   label: 'UM',
   timestamp: '2023-06-10T15:53:36.918Z'
 }
+{
+  message: 'Database connected!',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-10T15:58:10.887Z'
+}
+{
+  message: 'Server Listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-10T15:58:10.893Z'
+}

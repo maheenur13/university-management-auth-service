@@ -1,8 +1,8 @@
 /* eslint-disable no-unused-vars */
 import cors from 'cors';
 import express, { Application, NextFunction, Request, Response } from 'express';
+import routes from './app/Routes';
 import globalErrorHandler from './app/middlewares/globalErrorHandler';
-import { UserRoutes } from './app/modules/user/user.route';
 const app: Application = express();
 
 app.use(cors());
@@ -14,7 +14,7 @@ app.use(
   })
 );
 
-app.use('/api/v1/user', UserRoutes);
+app.use('/api/v1', routes);
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 app.get('/', async (req: Request, res: Response, next: NextFunction) => {

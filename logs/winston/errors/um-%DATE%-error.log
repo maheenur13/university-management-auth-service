@@ -18,3 +18,4 @@
 { level: 'error', label: 'UM', timestamp: '2023-06-10T14:40:16.171Z' }
 Sat Jun 10 2023 20:40:43[UM] error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
 Sat Jun 10 2023 20:45:39[UM] error: Testing Error logger
+Tue Jun 13 2023 2:19:5[UM] error: listen EADDRINUSE: address already in use :::5000
