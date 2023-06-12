@@ -154,3 +154,147 @@
   label: 'UM',
   timestamp: '2023-06-12T21:19:36.096Z'
 }
+{
+  message: 'Database connected!',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:26:32.059Z'
+}
+{
+  message: 'Server Listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:26:32.066Z'
+}
+{
+  message: 'Database connected!',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:27:25.208Z'
+}
+{
+  message: 'Server Listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:27:25.214Z'
+}
+{
+  message: 'Database connected!',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:27:43.413Z'
+}
+{
+  message: 'Server Listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:27:43.419Z'
+}
+{
+  message: 'Database connected!',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:33:44.992Z'
+}
+{
+  message: 'Server Listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:33:44.999Z'
+}
+{
+  message: 'Database connected!',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:34:21.342Z'
+}
+{
+  message: 'Server Listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:34:21.348Z'
+}
+{
+  message: 'Database connected!',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:34:51.801Z'
+}
+{
+  message: 'Server Listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:34:51.807Z'
+}
+{
+  message: 'Database connected!',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:34:58.701Z'
+}
+{
+  message: 'Server Listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:34:58.708Z'
+}
+{
+  message: 'Database connected!',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:35:40.257Z'
+}
+{
+  message: 'Server Listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:35:40.263Z'
+}
+{
+  message: 'Database connected!',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:36:41.703Z'
+}
+{
+  message: 'Server Listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:36:41.709Z'
+}
+{
+  message: 'Database connected!',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:37:01.166Z'
+}
+{
+  message: 'Server Listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:37:01.174Z'
+}
+{
+  message: 'Database connected!',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:37:22.868Z'
+}
+{
+  message: 'Server Listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:37:22.877Z'
+}
+{
+  message: 'Database connected!',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:37:39.673Z'
+}
+{
+  message: 'Server Listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T21:37:39.680Z'
+}

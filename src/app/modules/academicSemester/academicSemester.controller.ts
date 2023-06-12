@@ -9,13 +9,13 @@ const createSemester = catchAsync(
     const { ...data } = req.body;
     const result = await AcademicSemesterService.createSemester(data);
     if (result) {
-      next();
       sendResponse(res, {
         data: result,
         statusCode: httpStatus.OK,
         success: true,
         message: 'Semester created successfully!',
       });
+      next();
     }
   }
 );

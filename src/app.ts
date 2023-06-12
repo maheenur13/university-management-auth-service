@@ -1,6 +1,7 @@
 /* eslint-disable no-unused-vars */
 import cors from 'cors';
 import express, { Application, NextFunction, Request, Response } from 'express';
+import httpStatus from 'http-status';
 import routes from './app/Routes';
 import globalErrorHandler from './app/middlewares/globalErrorHandler';
 const app: Application = express();
@@ -16,13 +17,28 @@ app.use(
 
 app.use('/api/v1', routes);
 
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-app.get('/', async (req: Request, res: Response, next: NextFunction) => {
-  // throw new ApiError(400, 'An error occurred!');
-  throw new Error('Testing Error logger');
-});
+// // eslint-disable-next-line @typescript-eslint/no-unused-vars
+// app.get('/', async (req: Request, res: Response, next: NextFunction) => {
+//   // throw new ApiError(400, 'An error occurred!');
+//   throw new Error('Testing Error logger');
+// });
 
 //global error handler
 app.use(globalErrorHandler);
+
+// handle not found api
+app.use((req: Request, res: Response, next: NextFunction) => {
+  res.status(httpStatus.NOT_FOUND).json({
+    success: false,
+    message: 'Not found',
+    errorMessages: [
+      {
+        path: req.originalUrl,
+        message: 'Api Not found',
+      },
+    ],
+  });
+  next();
+});
 
 export default app;
