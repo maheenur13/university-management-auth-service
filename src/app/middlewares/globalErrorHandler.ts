@@ -4,6 +4,7 @@ import { ErrorRequestHandler } from 'express';
 import { ZodError } from 'zod';
 import config from '../../config';
 import ApiError from '../../errors/ApiError';
+import handleCastError from '../../errors/handleCastError';
 import handleValidationError from '../../errors/handleValidationError';
 import handleZodError from '../../errors/handleZodError';
 import { IGenericErrorMessage } from '../../interfaces/errors';
@@ -20,6 +21,11 @@ const globalErrorHandler: ErrorRequestHandler = (err, req, res, next) => {
 
   if (err?.name === 'validationError') {
     const simplifyError = handleValidationError(err);
+    statusCode = simplifyError.statusCode;
+    message = simplifyError.message;
+    errorMessages = simplifyError.errorMessages;
+  } else if (err?.name === 'CastError') {
+    const simplifyError = handleCastError(err);
     statusCode = simplifyError.statusCode;
     message = simplifyError.message;
     errorMessages = simplifyError.errorMessages;
