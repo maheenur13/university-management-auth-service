@@ -19,3 +19,31 @@
 Sat Jun 10 2023 20:40:43[UM] error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
 Sat Jun 10 2023 20:45:39[UM] error: Testing Error logger
 Tue Jun 13 2023 2:19:5[UM] error: listen EADDRINUSE: address already in use :::5000
+Fri Jun 16 2023 17:26:7[UM] error: E11000 duplicate key error collection: university-management.users index: id_1 dup key: { id: "250100006" }
+Fri Jun 16 2023 17:27:28[UM] error: E11000 duplicate key error collection: university-management.users index: id_1 dup key: { id: "F-00001" }
+Fri Jun 16 2023 18:14:4[UM] error: Operation `users.findOne()` buffering timed out after 10000ms
+Sat Jun 17 2023 0:5:14[UM] error: Cast to ObjectId failed for value "create" (type string) at path "_id" for model "AcademicFaculty"
+Sat Jun 17 2023 0:11:2[UM] error: Cannot read properties of undefined (reading 'academicSemester')
+Sat Jun 17 2023 0:14:11[UM] error: Schema hasn't been registered for model "student".
+Use mongoose.model(name, schema)
+Sat Jun 17 2023 0:18:46[UM] error: E11000 duplicate key error collection: university-management.students index: email_1 dup key: { email: "jahidun.nur.mahee@gmail.com" }
+Sat Jun 17 2023 0:19:55[UM] error: Schema hasn't been registered for model "student".
+Use mongoose.model(name, schema)
+Sat Jun 17 2023 0:22:20[UM] error: Schema hasn't been registered for model "student".
+Use mongoose.model(name, schema)
+Sat Jun 17 2023 0:27:58[UM] error: Schema hasn't been registered for model "student".
+Use mongoose.model(name, schema)
+Sat Jun 17 2023 0:37:6[UM] error: Schema hasn't been registered for model "student".
+Use mongoose.model(name, schema)
+Sat Jun 17 2023 0:39:47[UM] error: user_service_1.default.createStudentToDB is not a function
+Sat Jun 17 2023 0:40:24[UM] error: Schema hasn't been registered for model "student".
+Use mongoose.model(name, schema)
+Sat Jun 17 2023 1:3:34[UM] error: Schema hasn't been registered for model "student".
+Use mongoose.model(name, schema)
+Sat Jun 17 2023 1:17:40[UM] error: Schema hasn't been registered for model "student".
+Use mongoose.model(name, schema)
+Sat Jun 17 2023 1:18:34[UM] error: E11000 duplicate key error collection: university-management.students index: email_1 dup key: { email: "jahidun.nur.mahee@gmail.com" }
+Sat Jun 17 2023 1:26:10[UM] error: Schema hasn't been registered for model "student".
+Use mongoose.model(name, schema)
+Sat Jun 17 2023 1:28:23[UM] error: E11000 duplicate key error collection: university-management.academicdepartments index: title_1 dup key: { title: "Dept of CSE" }
+Sat Jun 17 2023 1:29:47[UM] error: E11000 duplicate key error collection: university-management.academicdepartments index: title_1 dup key: { title: "Dept of CSE" }

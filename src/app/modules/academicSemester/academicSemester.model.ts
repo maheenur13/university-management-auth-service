@@ -11,32 +11,40 @@ import {
   IAcademicSemesterModel,
 } from './academicSemester.interface';
 
-const academicSemesterSchema = new Schema<IAcademicSemester>({
-  title: {
-    type: String,
-    required: true,
-    enum: academicSemesterTitle,
+const academicSemesterSchema = new Schema<IAcademicSemester>(
+  {
+    title: {
+      type: String,
+      required: true,
+      enum: academicSemesterTitle,
+    },
+    year: {
+      type: String,
+      required: true,
+    },
+    code: {
+      type: String,
+      required: true,
+      enum: academicSemesterCode,
+    },
+    endMonth: {
+      type: String,
+      required: true,
+      enum: Months,
+    },
+    startMonth: {
+      type: String,
+      required: true,
+      enum: Months,
+    },
   },
-  year: {
-    type: String,
-    required: true,
-  },
-  code: {
-    type: String,
-    required: true,
-    enum: academicSemesterCode,
-  },
-  endMonth: {
-    type: String,
-    required: true,
-    enum: Months,
-  },
-  startMonth: {
-    type: String,
-    required: true,
-    enum: Months,
-  },
-});
+  {
+    toJSON: {
+      virtuals: true,
+    },
+    timestamps: true,
+  }
+);
 // check same year && same semester issue
 
 academicSemesterSchema.pre('save', async function (next) {

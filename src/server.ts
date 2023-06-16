@@ -1,8 +1,7 @@
-/* eslint-disable no-console */
 import { Server } from 'http';
 import mongoose from 'mongoose';
 import app from './app';
-import config from './config';
+import config from './config/index';
 import { errLogger, logger } from './shared/logger';
 
 process.on('uncaughtException', error => {
@@ -15,18 +14,16 @@ let server: Server;
 async function bootstrap() {
   try {
     await mongoose.connect(config.db_url as string);
-    logger.info('Database connected!');
+    logger.info(`🛢   Database is connected successfully`);
 
     server = app.listen(config.port, () => {
-      logger.info(`Server Listening on port ${config.port}`);
+      logger.info(`Application  listening on port ${config.port}`);
     });
-  } catch (error) {
-    errLogger.error(error);
+  } catch (err) {
+    errLogger.error('Failed to connect database', err);
   }
 
   process.on('unhandledRejection', error => {
-    console.log('yeah unhandled rejection detected');
-
     if (server) {
       server.close(() => {
         errLogger.error(error);
@@ -37,10 +34,11 @@ async function bootstrap() {
     }
   });
 }
+
 bootstrap();
 
 process.on('SIGTERM', () => {
-  logger.info('SIGTERM Received');
+  logger.info('SIGTERM is received');
   if (server) {
     server.close();
   }

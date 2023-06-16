@@ -1,0 +1,16 @@
+Sat Jun 17 2023 0:5:14[UM] error: Cast to ObjectId failed for value "create" (type string) at path "_id" for model "AcademicFaculty"
+Sat Jun 17 2023 0:11:2[UM] error: Cannot read properties of undefined (reading 'academicSemester')
+Sat Jun 17 2023 0:14:11[UM] error: Schema hasn't been registered for model "student".
+Use mongoose.model(name, schema)
+Sat Jun 17 2023 0:18:46[UM] error: E11000 duplicate key error collection: university-management.students index: email_1 dup key: { email: "jahidun.nur.mahee@gmail.com" }
+Sat Jun 17 2023 0:19:55[UM] error: Schema hasn't been registered for model "student".
+Use mongoose.model(name, schema)
+Sat Jun 17 2023 0:22:20[UM] error: Schema hasn't been registered for model "student".
+Use mongoose.model(name, schema)
+Sat Jun 17 2023 0:27:58[UM] error: Schema hasn't been registered for model "student".
+Use mongoose.model(name, schema)
+Sat Jun 17 2023 0:37:6[UM] error: Schema hasn't been registered for model "student".
+Use mongoose.model(name, schema)
+Sat Jun 17 2023 0:39:47[UM] error: user_service_1.default.createStudentToDB is not a function
+Sat Jun 17 2023 0:40:24[UM] error: Schema hasn't been registered for model "student".
+Use mongoose.model(name, schema)

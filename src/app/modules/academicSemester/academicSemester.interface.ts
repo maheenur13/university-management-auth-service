@@ -34,5 +34,5 @@ export type IPaginationOptions = {
 };
 
 export type IAcaDemicSemesterFilter = {
-  searchTerm: string;
+  searchTerm?: string;
 };

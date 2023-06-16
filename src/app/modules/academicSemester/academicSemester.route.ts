@@ -11,6 +11,13 @@ router.post(
 );
 
 router.get('/:id', AcademicSemesterController.getSingleSemester);
+router.patch(
+  '/update/:id',
+  validateRequest(AcademicSemesterValidation.updateAcademicSemesterZodSchema),
+  AcademicSemesterController.updateSemester
+);
+
+router.delete('/delete/:id', AcademicSemesterController.deleteSemester);
 router.get('/', AcademicSemesterController.getAllSemester);
 
 export const AcademicSemesterRoutes = router;

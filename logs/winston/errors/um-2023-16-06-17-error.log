@@ -1,0 +1,2 @@
+Fri Jun 16 2023 17:26:7[UM] error: E11000 duplicate key error collection: university-management.users index: id_1 dup key: { id: "250100006" }
+Fri Jun 16 2023 17:27:28[UM] error: E11000 duplicate key error collection: university-management.users index: id_1 dup key: { id: "F-00001" }

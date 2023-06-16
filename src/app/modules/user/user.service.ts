@@ -1,26 +1,87 @@
-import config from '../../../config';
+import httpStatus from 'http-status';
+import mongoose from 'mongoose';
+import config from '../../../config/index';
 import ApiError from '../../../errors/ApiError';
+import { AcademicSemesterModel } from '../academicSemester/academicSemester.model';
+import { IStudent } from '../student/student.interface';
+import { StudentModel } from '../student/student.model';
 import { IUser } from './user.interface';
 import { UserModel } from './user.model';
-import { generateUserID } from './user.utils';
+import { generateStudentId } from './user.utils';
 
-const createUserToDB = async (userData: IUser): Promise<IUser> => {
-  const id = await generateUserID();
+const createStudent = async (
+  student: IStudent,
+  user: IUser
+): Promise<IUser | null> => {
+  // default password
+  if (!user.password) {
+    user.password = config.default_student_pass as string;
+  }
+  // set role
+  user.role = 'student';
 
-  // set default id
-  userData.id = id;
+  const academicsemester = await AcademicSemesterModel.findById(
+    student.academicSemester
+  );
 
-  if (!userData.password) {
-    userData.password = config.default_user_pass as string;
+  // generate student id
+  let newUserAllData = null;
+  const session = await mongoose.startSession();
+  try {
+    session.startTransaction();
+    const id = await generateStudentId(academicsemester);
+    user.id = id;
+    student.id = id;
+
+    //array
+    const newStudent = await StudentModel.create([student], { session });
+
+    if (!newStudent.length) {
+      throw new ApiError(httpStatus.BAD_REQUEST, 'Failed to create student');
+    }
+
+    //set student -->  _id into user.student
+    user.student = newStudent[0]._id;
+
+    const newUser = await UserModel.create([user], { session });
+
+    if (!newUser.length) {
+      throw new ApiError(httpStatus.BAD_REQUEST, 'Failed to create user');
+    }
+    newUserAllData = newUser[0];
+
+    await session.commitTransaction();
+    await session.endSession();
+  } catch (error) {
+    await session.abortTransaction();
+    await session.endSession();
+    throw error;
   }
 
-  const createdUser = await UserModel.create(userData);
-  if (!createdUser) {
-    throw new ApiError(400, 'Failed to create!');
+  //user --> student ---> academicSemester, academicDepartment , academicFaculty
+
+  if (newUserAllData) {
+    newUserAllData = await UserModel.findOne({
+      id: newUserAllData.id,
+    }).populate({
+      path: 'student',
+      populate: [
+        {
+          path: 'academicSemester',
+        },
+        {
+          path: 'academicDepartment',
+        },
+        {
+          path: 'academicFaculty',
+        },
+      ],
+    });
   }
-  return createdUser;
+
+  return newUserAllData;
 };
 
-export default {
-  createUserToDB,
+export const UserService = {
+  createStudent,
 };
