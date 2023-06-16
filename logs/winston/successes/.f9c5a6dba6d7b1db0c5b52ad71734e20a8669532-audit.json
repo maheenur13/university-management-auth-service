@@ -79,6 +79,11 @@
             "date": 1686946045055,
             "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\successes\\um-2023-17-06-02-success.log",
             "hash": "0ff132abe96e2a1e839b9008fb3da9355eadf6d248c7d8531c0ce4f678ac1f90"
+        },
+        {
+            "date": 1686951274505,
+            "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\successes\\um-2023-17-06-03-success.log",
+            "hash": "f40a30ffc71230552f1286cd9bf8cec46fa1b10a98f424f958213a7c4dfb100c"
         }
     ],
     "hashType": "sha256"
