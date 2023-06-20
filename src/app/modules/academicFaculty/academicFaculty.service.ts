@@ -1,4 +1,6 @@
+import httpStatus from 'http-status';
 import { SortOrder } from 'mongoose';
+import ApiError from '../../../errors/ApiError';
 import { paginationHelpers } from '../../../helpers/pagination.helpers';
 import { IGenericResponse } from '../../../interfaces/common';
 import { IPaginationOptions } from '../academicSemester/academicSemester.interface';
@@ -73,6 +75,10 @@ const getAllFaculty = async (
 const getSingleFaculty = async (
   id: string
 ): Promise<IAcademicFaculty | null> => {
+  const isExist = await AcademicFacultyModel.findById(id);
+  if (!isExist) {
+    throw new ApiError(httpStatus.NOT_FOUND, 'Faculty could not found!');
+  }
   const result = await AcademicFacultyModel.findById(id);
   return result;
 };
@@ -81,6 +87,11 @@ const updateFaculty = async (
   id: string,
   payload: Partial<IAcademicFaculty>
 ): Promise<IAcademicFaculty | null> => {
+  const isExist = await AcademicFacultyModel.findById(id);
+  if (!isExist) {
+    throw new ApiError(httpStatus.NOT_FOUND, 'Faculty could not found!');
+  }
+
   const result = await AcademicFacultyModel.findOneAndUpdate(
     { _id: id },
     payload,
@@ -92,6 +103,10 @@ const updateFaculty = async (
 };
 
 const deleteFaculty = async (id: string): Promise<IAcademicFaculty | null> => {
+  const isExist = await AcademicFacultyModel.findById(id);
+  if (!isExist) {
+    throw new ApiError(httpStatus.NOT_FOUND, 'Faculty could not found!');
+  }
   const result = await AcademicFacultyModel.findByIdAndDelete(id);
   return result;
 };
