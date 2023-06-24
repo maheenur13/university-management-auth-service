@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\successes\\.e0f491cfa5e18ebaeb2decfd0a6348a9247c5c70-audit.json",
+    "files": [
+        {
+            "date": 1687517575235,
+            "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\successes\\um-2023-23-06-16-success.log",
+            "hash": "ec448abe9e46b37db794d1cca25c88c7ad6b8123f25b7c1c1015f237f569f6f1"
+        },
+        {
+            "date": 1687518513914,
+            "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\successes\\um-2023-23-06-17-success.log",
+            "hash": "c884394354d0b856903fe8e3576c65be1e3501e71cc476e8373a2e22f9b38d59"
+        },
+        {
+            "date": 1687523028581,
+            "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\3rd_MILESTONE\\university-management-auth-service\\logs\\winston\\successes\\um-2023-23-06-18-success.log",
+            "hash": "2877d2d3bf7ff363b3852fa4ba8746caa892a37384378f1be063a774d60718fd"
+        }
+    ],
+    "hashType": "sha256"
+}
