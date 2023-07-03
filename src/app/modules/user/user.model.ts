@@ -3,7 +3,7 @@ import { Schema, model } from 'mongoose';
 import config from '../../../config';
 import { IUser, IUserModel } from './user.interface';
 
-const userSchema = new Schema<IUser,IUserModel>(
+const userSchema = new Schema<IUser, IUserModel>(
   {
     id: {
       type: String,
@@ -26,6 +26,9 @@ const userSchema = new Schema<IUser,IUserModel>(
     student: {
       type: Schema.Types.ObjectId,
       ref: 'Student',
+    },
+    passwordChangAt: {
+      type: Date,
     },
     faculty: {
       type: Schema.Types.ObjectId,
