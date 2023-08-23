@@ -1,9 +1,15 @@
-import express, { Application, Request, Response } from "express";
-import cors from "cors";
+/* eslint-disable no-unused-vars */
+import cookieParser from 'cookie-parser';
+import cors from 'cors';
+import express, { Application, NextFunction, Request, Response } from 'express';
+import httpStatus from 'http-status';
+import routes from './app/Routes';
+import globalErrorHandler from './app/middlewares/globalErrorHandler';
+
 const app: Application = express();
-const port: number = 3000;
 
 app.use(cors());
+app.use(cookieParser())
 
 app.use(express.json());
 app.use(
@@ -12,13 +18,24 @@ app.use(
   })
 );
 
-// testing
-app.get("/", (req:Request, res:Response) => {
-  res.send("All things working!");
-});
+app.use('/api/v1', routes);
 
-app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`);
+//global error handler
+app.use(globalErrorHandler);
+
+// handle not found api
+app.use((req: Request, res: Response, next: NextFunction) => {
+  res.status(httpStatus.NOT_FOUND).json({
+    success: false,
+    message: 'Not found',
+    errorMessages: [
+      {
+        path: req.originalUrl,
+        message: 'Api Not found',
+      },
+    ],
+  });
+  next();
 });
 
 export default app;
