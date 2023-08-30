@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd and 6th MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\.7c7549047473e9475e06cbe9008a91c53646cef6-audit.json",
+    "files": [
+        {
+            "date": 1692808895223,
+            "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd and 6th MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\um-2023-23-08-22-error.log",
+            "hash": "1581ad53eeef0bf58a9403ac33388fb53bf8284feaee0d76a454afc3af356ef9"
+        },
+        {
+            "date": 1692959947080,
+            "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd and 6th MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\um-2023-25-08-16-error.log",
+            "hash": "ade24388cab72a3b3327f352cea8f46b29f882ead390c1508a4782e05c4204b1"
+        },
+        {
+            "date": 1693048190143,
+            "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd and 6th MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\um-2023-26-08-17-error.log",
+            "hash": "5990c9282471840f5a07a43ae0a8fe9a396d1320ee7558186e849b5f1b7618c7"
+        },
+        {
+            "date": 1693389476664,
+            "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\3rd and 6th MILESTONE\\university-management-auth-service\\logs\\winston\\errors\\um-2023-30-08-15-error.log",
+            "hash": "c33e33e8ca58fe9a5b5c3bfb6311af98243a8d06eaa97184a89e18442628f8b1"
+        }
+    ],
+    "hashType": "sha256"
+}
