@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\AUTH-CORE-REDIS\\All APPS\\university-management-auth-service\\logs\\winston\\successes\\.c0e8dbed56f21bb58726d632454609df0fa7f0f1-audit.json",
+    "files": [
+        {
+            "date": 1694661189219,
+            "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\AUTH-CORE-REDIS\\All APPS\\university-management-auth-service\\logs\\winston\\successes\\um-2023-14-09-09-success.log",
+            "hash": "c61e11276f840dae85f8d842b6a292249612004914430e2b8434a6ce467a61ee"
+        }
+    ],
+    "hashType": "sha256"
+}
