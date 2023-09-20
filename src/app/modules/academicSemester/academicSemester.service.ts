@@ -116,8 +116,6 @@ const deleteSemester = async (
 const createSemesterFromRedisEvent = async (
   e: IAcademicSemesterCreatedEvent
 ): Promise<void> => {
-  console.log('red', e);
-
   await AcademicSemesterModel.create({
     title: e.title,
     year: e.year,
