@@ -85,6 +85,25 @@ const getSingleSemester = async (
   return result;
 };
 
+const updateAcademicSemesterEvent = async (
+  e: IAcademicSemesterCreatedEvent
+): Promise<void> => {
+  await AcademicSemesterModel.findOneAndUpdate(
+    {
+      syncId: e.id,
+    },
+    {
+      $set: {
+        title: e.title,
+        year: e.year,
+        code: e.code,
+        startMonth: e.startMonth,
+        endMonth: e.endMonth,
+      },
+    }
+  );
+};
+
 const updateSemester = async (
   id: string,
   payload: Partial<IAcademicSemester>
@@ -132,5 +151,6 @@ export const AcademicSemesterService = {
   getSingleSemester,
   updateSemester,
   deleteSemester,
+  updateAcademicSemesterEvent,
   createSemesterFromRedisEvent,
 };

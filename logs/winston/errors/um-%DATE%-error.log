@@ -48,3 +48,5 @@ Use mongoose.model(name, schema)
 Sat Jun 17 2023 1:28:23[UM] error: E11000 duplicate key error collection: university-management.academicdepartments index: title_1 dup key: { title: "Dept of CSE" }
 Sat Jun 17 2023 1:29:47[UM] error: E11000 duplicate key error collection: university-management.academicdepartments index: title_1 dup key: { title: "Dept of CSE" }
 Wed Sep 20 2023 7:16:12[UM] error: This academic semester is already exist!
+Wed Sep 20 2023 7:33:13[UM] error: This academic semester is already exist!
+Wed Sep 20 2023 7:34:34[UM] error: This academic semester is already exist!
