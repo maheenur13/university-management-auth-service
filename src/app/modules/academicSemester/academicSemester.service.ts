@@ -10,6 +10,7 @@ import {
 import {
   IAcaDemicSemesterFilter,
   IAcademicSemester,
+  IAcademicSemesterCreatedEvent,
   IPaginationOptions,
 } from './academicSemester.interface';
 import { AcademicSemesterModel } from './academicSemester.model';
@@ -112,10 +113,26 @@ const deleteSemester = async (
   return result;
 };
 
+const createSemesterFromRedisEvent = async (
+  e: IAcademicSemesterCreatedEvent
+): Promise<void> => {
+  console.log('red', e);
+
+  await AcademicSemesterModel.create({
+    title: e.title,
+    year: e.year,
+    code: e.code,
+    startMonth: e.startMonth,
+    endMonth: e.endMonth,
+    syncId: e.id,
+  });
+};
+
 export const AcademicSemesterService = {
   createSemester,
   getAllSemester,
   getSingleSemester,
   updateSemester,
   deleteSemester,
+  createSemesterFromRedisEvent,
 };
