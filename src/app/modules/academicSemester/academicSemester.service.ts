@@ -131,6 +131,9 @@ const deleteSemester = async (
   const result = await AcademicSemesterModel.findByIdAndDelete(id);
   return result;
 };
+const deleteAcademicSemesterEvent = async (id: string): Promise<void> => {
+  await AcademicSemesterModel.findOneAndDelete({ syncId: id });
+};
 
 const createSemesterFromRedisEvent = async (
   e: IAcademicSemesterCreatedEvent
@@ -153,4 +156,5 @@ export const AcademicSemesterService = {
   deleteSemester,
   updateAcademicSemesterEvent,
   createSemesterFromRedisEvent,
+  deleteAcademicSemesterEvent,
 };
