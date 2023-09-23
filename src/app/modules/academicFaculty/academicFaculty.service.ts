@@ -7,6 +7,7 @@ import { IPaginationOptions } from '../academicSemester/academicSemester.interfa
 import { academicFacultySearchableFields } from './academicFaculty.contants';
 import {
   IAcademicFaculty,
+  IAcademicFacultyEvent,
   IAcademicFacultyFilters,
 } from './academicFaculty.interface';
 import { AcademicFacultyModel } from './academicFaculty.model';
@@ -16,6 +17,40 @@ const createFaculty = async (
 ): Promise<IAcademicFaculty> => {
   const result = await AcademicFacultyModel.create(payload);
   return result;
+};
+const createFacultyEvent = async (
+  payload: IAcademicFacultyEvent
+): Promise<void> => {
+  await AcademicFacultyModel.create({
+    title: payload.title,
+    syncId: payload.id,
+  });
+};
+const updateFacultyEvent = async (
+  payload: IAcademicFacultyEvent
+): Promise<void> => {
+  await AcademicFacultyModel.updateOne(
+    {
+      syncId: payload.id,
+    },
+    {
+      $set: {
+        title: payload.title,
+      },
+    }
+  );
+};
+
+const deleteFacultyEvents = async (id: string): Promise<void> => {
+  const isExist = await AcademicFacultyModel.findOne({
+    syncId: id,
+  });
+  if (!isExist) {
+    throw new ApiError(httpStatus.NOT_FOUND, 'Faculty could not found!');
+  }
+  await AcademicFacultyModel.findOneAndDelete({
+    syncId: id,
+  });
 };
 
 const getAllFaculty = async (
@@ -117,4 +152,7 @@ export const AcademicFacultyService = {
   getSingleFaculty,
   updateFaculty,
   deleteFaculty,
+  createFacultyEvent,
+  updateFacultyEvent,
+  deleteFacultyEvents,
 };

@@ -12,6 +12,10 @@ const academicFacultySchema = new Schema<IAcademicFaculty>(
       type: String,
       required: true,
     },
+    syncId: {
+      type: String,
+      required: true,
+    },
   },
   {
     toJSON: {
