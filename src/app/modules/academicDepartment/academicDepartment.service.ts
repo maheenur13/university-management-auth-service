@@ -1,10 +1,12 @@
 import { SortOrder } from 'mongoose';
 import { paginationHelpers } from '../../../helpers/pagination.helpers';
 import { IGenericResponse } from '../../../interfaces/common';
+import { AcademicFacultyModel } from '../academicFaculty/academicFaculty.model';
 import { IPaginationOptions } from '../academicSemester/academicSemester.interface';
 import { academicDepartmentSearchableFields } from './academicDepartment.constants';
 import {
   IAcademicDepartment,
+  IAcademicDepartmentEvent,
   IAcademicDepartmentFilters,
 } from './academicDepartment.interface';
 import { AcademicDepartmentModel } from './academicDepartment.model';
@@ -16,6 +18,19 @@ const createDepartment = async (
     'academicFaculty'
   );
   return result;
+};
+const createDepartmentEvent = async (
+  payload: IAcademicDepartmentEvent
+): Promise<void> => {
+  const faculty = await AcademicFacultyModel.findOne({
+    syncId: payload.academicFacultyId,
+  });
+
+  await AcademicDepartmentModel.create({
+    academicFaculty: faculty?._id,
+    syncId: payload.id,
+    title: payload.title,
+  });
 };
 
 const getAllDepartment = async (
@@ -93,12 +108,29 @@ const updateDepartment = async (
   ).populate('academicFaculty');
   return result;
 };
+const updateDepartmentEvent = async (
+  payload: Partial<IAcademicDepartmentEvent>
+): Promise<void> => {
+  await AcademicDepartmentModel.findOneAndUpdate(
+    { syncId: payload.id },
+    {
+      $set: {
+        title: payload.title,
+      },
+    }
+  );
+};
 
 const deleteDepartment = async (
   id: string
 ): Promise<IAcademicDepartment | null> => {
   const result = await AcademicDepartmentModel.findByIdAndDelete(id);
   return result;
+};
+const deleteDepartmentEvent = async (id: string): Promise<void> => {
+  await AcademicDepartmentModel.findOneAndDelete({
+    syncId: id,
+  });
 };
 
 export const AcademicDepartmentService = {
@@ -107,4 +139,7 @@ export const AcademicDepartmentService = {
   getSingleDepartment,
   updateDepartment,
   deleteDepartment,
+  createDepartmentEvent,
+  updateDepartmentEvent,
+  deleteDepartmentEvent,
 };
