@@ -38,7 +38,13 @@ export const academicSemesterTitleCodeMapper: IAcademicSemesterTitleMapper = {
 
 export const academicSemesterSearchable = ['title', 'code', 'year'];
 
-export const filterableFields = ['searchTerm', 'title', 'code', 'year'];
+export const filterableFields = [
+  'searchTerm',
+  'title',
+  'code',
+  'year',
+  'syncId',
+];
 
 export const EVENT_ACADEMICSEMESTER_CREATED = 'academic-semester.created';
 export const EVENT_ACADEMICSEMESTER_UPDATED = 'academic-semester.updated';
