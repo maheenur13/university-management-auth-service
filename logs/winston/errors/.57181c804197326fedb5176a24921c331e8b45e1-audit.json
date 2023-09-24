@@ -44,6 +44,11 @@
             "date": 1695452747872,
             "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\AUTH-CORE-REDIS\\All APPS\\um-auth-service\\logs\\winston\\errors\\um-2023-23-09-13-error.log",
             "hash": "d02b3657d58c7a9769a8f7d9986748dca120cfa39365ac99e460f46e0f7ca2b2"
+        },
+        {
+            "date": 1695572094613,
+            "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\AUTH-CORE-REDIS\\All APPS\\um-auth-service\\logs\\winston\\errors\\um-2023-24-09-22-error.log",
+            "hash": "e660cd8a867e34199220395e719e741d775f28a48019e90ca2fab634643c3999"
         }
     ],
     "hashType": "sha256"
