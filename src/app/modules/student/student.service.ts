@@ -5,8 +5,12 @@ import httpStatus from 'http-status';
 import ApiError from '../../../errors/ApiError';
 import { paginationHelpers } from '../../../helpers/pagination.helpers';
 import { IGenericResponse } from '../../../interfaces/common';
+import { RedisClient } from '../../../shared/redis';
 import { IPaginationOptions } from '../academicSemester/academicSemester.interface';
-import { studentSearchableFields } from './student.constant';
+import {
+  EVENT_STUDENT_UPDATED,
+  studentSearchableFields,
+} from './student.constant';
 import { IStudent, IStudentFilters } from './student.interface';
 import { StudentModel } from './student.model';
 
@@ -121,6 +125,10 @@ const updateStudent = async (
       new: true,
     }
   );
+
+  if (result) {
+    await RedisClient.publish(EVENT_STUDENT_UPDATED, JSON.stringify(result));
+  }
   return result;
 };
 
