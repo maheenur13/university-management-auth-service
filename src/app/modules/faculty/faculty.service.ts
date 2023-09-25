@@ -4,9 +4,13 @@ import { IGenericResponse } from '../../../interfaces/common';
 import httpStatus from 'http-status';
 import ApiError from '../../../errors/ApiError';
 import { paginationHelpers } from '../../../helpers/pagination.helpers';
+import { RedisClient } from '../../../shared/redis';
 import { IPaginationOptions } from '../academicSemester/academicSemester.interface';
 import { UserModel } from '../user/user.model';
-import { facultySearchableFields } from './faculty.constant';
+import {
+  EVENT_FACULTY_UPDATED,
+  facultySearchableFields,
+} from './faculty.constant';
 import { IFaculty, IFacultyFilters } from './faculty.interface';
 import { FacultyModel } from './faculty.model';
 
@@ -100,6 +104,11 @@ const updateFaculty = async (
       new: true,
     }
   );
+
+  if (result) {
+    await RedisClient.publish(EVENT_FACULTY_UPDATED, JSON.stringify(result));
+  }
+
   return result;
 };
 
