@@ -103,8 +103,9 @@ const updateFaculty = async (
     {
       new: true,
     }
-  );
-
+  )
+    .populate('academicFaculty')
+    .populate('academicDepartment');
   if (result) {
     await RedisClient.publish(EVENT_FACULTY_UPDATED, JSON.stringify(result));
   }
