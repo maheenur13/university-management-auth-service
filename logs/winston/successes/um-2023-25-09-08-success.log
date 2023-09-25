@@ -52,3 +52,21 @@
   label: 'UM',
   timestamp: '2023-09-25T02:34:48.521Z'
 }
+{
+  message: 'Redis connected',
+  level: 'error',
+  label: 'UM',
+  timestamp: '2023-09-25T02:45:31.043Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T02:45:31.878Z'
+}
+{
+  message: 'Application  listening on port 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T02:45:31.882Z'
+}

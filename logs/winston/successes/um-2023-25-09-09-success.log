@@ -1,0 +1,180 @@
+{
+  message: 'Redis connected',
+  level: 'error',
+  label: 'UM',
+  timestamp: '2023-09-25T03:02:22.725Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:02:23.722Z'
+}
+{
+  message: 'Application  listening on port 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:02:23.726Z'
+}
+{
+  message: 'Redis connected',
+  level: 'error',
+  label: 'UM',
+  timestamp: '2023-09-25T03:02:36.761Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:02:37.500Z'
+}
+{
+  message: 'Application  listening on port 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:02:37.506Z'
+}
+{
+  message: 'Redis connected',
+  level: 'error',
+  label: 'UM',
+  timestamp: '2023-09-25T03:03:12.579Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:03:13.274Z'
+}
+{
+  message: 'Application  listening on port 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:03:13.279Z'
+}
+{
+  message: 'Redis connected',
+  level: 'error',
+  label: 'UM',
+  timestamp: '2023-09-25T03:03:36.676Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:03:37.369Z'
+}
+{
+  message: 'Application  listening on port 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:03:37.373Z'
+}
+{
+  message: 'Redis connected',
+  level: 'error',
+  label: 'UM',
+  timestamp: '2023-09-25T03:14:19.173Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:14:20.071Z'
+}
+{
+  message: 'Application  listening on port 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:14:20.076Z'
+}
+{
+  message: 'Redis connected',
+  level: 'error',
+  label: 'UM',
+  timestamp: '2023-09-25T03:14:24.089Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:14:24.733Z'
+}
+{
+  message: 'Application  listening on port 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:14:24.737Z'
+}
+{
+  message: 'Redis connected',
+  level: 'error',
+  label: 'UM',
+  timestamp: '2023-09-25T03:14:43.480Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:14:44.143Z'
+}
+{
+  message: 'Application  listening on port 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:14:44.147Z'
+}
+{
+  message: 'Redis connected',
+  level: 'error',
+  label: 'UM',
+  timestamp: '2023-09-25T03:15:06.666Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:15:07.330Z'
+}
+{
+  message: 'Application  listening on port 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:15:07.334Z'
+}
+{
+  message: 'Redis connected',
+  level: 'error',
+  label: 'UM',
+  timestamp: '2023-09-25T03:15:26.390Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:15:27.167Z'
+}
+{
+  message: 'Application  listening on port 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:15:27.172Z'
+}
+{
+  message: 'Redis connected',
+  level: 'error',
+  label: 'UM',
+  timestamp: '2023-09-25T03:15:29.178Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:15:29.878Z'
+}
+{
+  message: 'Application  listening on port 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-25T03:15:29.882Z'
+}

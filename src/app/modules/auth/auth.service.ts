@@ -80,6 +80,7 @@ const changePassword = async (
 const refreshToken = async (token: string): Promise<IRefreshTokenResponse> => {
   //verify token
   // invalid token - synchronous
+
   let verifiedToken = null;
   try {
     verifiedToken = jwtHelpers.verifyToken(
@@ -90,12 +91,12 @@ const refreshToken = async (token: string): Promise<IRefreshTokenResponse> => {
     throw new ApiError(httpStatus.FORBIDDEN, 'Invalid Refresh Token');
   }
 
-  const { userId } = verifiedToken;
+  const { id } = verifiedToken;
 
   // tumi delete hye gso  kintu tumar refresh token ase
   // checking deleted user's refresh token
 
-  const isUserExist = await UserModel.isUserExist(userId);
+  const isUserExist = await UserModel.isUserExist(id);
   if (!isUserExist) {
     throw new ApiError(httpStatus.NOT_FOUND, 'User does not exist');
   }
