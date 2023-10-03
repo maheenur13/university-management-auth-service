@@ -183,7 +183,7 @@ const createAdmin = async (
   // hash user password
 
   // set role
-  user.role = 'admin';
+  user.role = 'super_admin';
 
   // generate faculty id
   let newUserAllData = null;

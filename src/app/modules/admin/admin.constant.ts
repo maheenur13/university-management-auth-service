@@ -18,3 +18,4 @@ export const adminSearchableFields = [
   'name.lastName',
   'name.middleName',
 ];
+export const EVENT_ADMIN_CREATED = 'admin.created';
