@@ -4,9 +4,8 @@ import { AdminController } from './admin.controller';
 import { AdminValidation } from './admin.validation';
 const router = express.Router();
 
-router.get('/:id', AdminController.getSingleAdmin);
 router.get('/', AdminController.getAllAdmins);
-
+router.get('/:id', AdminController.getSingleAdmin);
 router.delete('/:id', AdminController.deleteAdmin);
 
 router.patch(
