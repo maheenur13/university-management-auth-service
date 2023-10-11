@@ -1,0 +1,6011 @@
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:35.408Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:35.415Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:35.476Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:35.582Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:35.738Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:35.956Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:36.219Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:36.544Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:36.902Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:37.324Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:37.786Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:38.298Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:38.811Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:39.335Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:39.843Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:40.352Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:40.866Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:41.379Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:41.888Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:42.414Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:42.921Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:43.432Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:43.948Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:44.456Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:44.968Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:45.479Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:45.992Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:46.502Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:47.015Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:47.526Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:48.040Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:48.562Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:49.080Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:49.591Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:50.104Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:50.617Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:51.133Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:51.665Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:52.180Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:52.706Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:53.233Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:53.740Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:54.253Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:54.764Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:55.281Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:55.789Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:56.305Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:56.817Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:57.327Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:57.839Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:58.348Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:58.861Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:59.373Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:39:59.885Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:00.395Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:00.905Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:01.418Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:01.944Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:02.456Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:02.968Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:03.478Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:03.991Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:04.503Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:05.029Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:05.541Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:06.053Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:06.563Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:07.074Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:07.588Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:08.099Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:08.624Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:09.134Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:09.647Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:10.174Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:10.683Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:11.197Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:11.706Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:12.219Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:12.729Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:13.242Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:13.755Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:14.280Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:14.788Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:15.301Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:15.813Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:16.325Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:16.869Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:17.396Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:17.908Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:18.433Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:18.946Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:19.467Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:19.978Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:20.505Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:21.013Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:21.523Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:22.020Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:22.532Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:23.056Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:23.565Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:24.081Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:24.603Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:25.115Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:25.629Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:26.143Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:26.655Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:27.169Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:27.690Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:28.202Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:28.713Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:29.223Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:29.736Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:30.249Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:30.760Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:31.274Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:31.788Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:32.299Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:32.814Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:33.346Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:33.869Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:34.383Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:34.898Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:35.412Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:35.925Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:36.439Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:36.952Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:37.464Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:37.972Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:38.484Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:38.993Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:39.503Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:40.017Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:40.865Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:41.372Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:41.885Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:42.396Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:42.911Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:43.430Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:43.936Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:44.446Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:44.961Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:45.469Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:45.984Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:46.497Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:47.008Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:47.533Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:48.047Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:48.559Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:49.068Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:49.595Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:50.118Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:50.632Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:51.146Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:51.669Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:52.183Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:52.698Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:53.212Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:53.723Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:54.233Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:54.746Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:55.259Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:55.769Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:56.282Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:56.793Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:57.301Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:57.814Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:58.337Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:58.850Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:59.362Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:40:59.877Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:00.385Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:00.910Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:01.431Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:01.942Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:02.454Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:02.979Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:03.489Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:04.000Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:04.508Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:05.026Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:05.550Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:06.068Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:06.587Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:07.098Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:07.607Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:08.133Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:08.647Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:09.160Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:09.673Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:10.181Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:10.704Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:11.232Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:11.751Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:12.259Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:12.765Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:13.282Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:13.801Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:14.312Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:14.822Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:15.333Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:15.848Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:16.375Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:16.885Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:17.395Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:17.919Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:18.431Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:18.948Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:19.471Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:19.984Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:20.495Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:21.017Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:21.529Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:22.048Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:22.555Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:23.078Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:23.585Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:24.097Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:24.605Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:25.113Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:25.628Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:26.136Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:26.668Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:27.192Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:27.708Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:28.245Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:28.768Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:29.288Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:29.799Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:30.311Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:30.826Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:31.341Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:31.850Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:32.367Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:32.890Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:33.400Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:34.011Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:34.534Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:35.046Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:35.567Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:36.094Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:36.604Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:37.117Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:37.631Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:38.152Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:38.676Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:39.189Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:39.700Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:40.219Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:40.732Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:41.247Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:41.753Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:42.281Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:42.797Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:43.319Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:43.874Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:44.414Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:44.927Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:45.439Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:45.951Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:46.462Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:46.977Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:47.486Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:48.011Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:48.537Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:49.048Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:49.567Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:50.095Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:50.613Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:51.129Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:51.648Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:52.160Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:52.672Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:53.186Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:53.716Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:54.234Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:54.764Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:55.292Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:55.816Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:56.327Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:56.837Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:57.362Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:57.879Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:58.449Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:58.977Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:41:59.497Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:00.046Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:00.564Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:01.075Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:01.584Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:02.104Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:02.632Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:03.148Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:03.659Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:04.183Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:04.707Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:05.222Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:05.734Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:06.257Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:06.769Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:07.280Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:07.793Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:08.302Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:08.816Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:09.328Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:09.845Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:10.350Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:10.862Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:11.384Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:11.898Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:12.409Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:12.918Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:13.430Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:13.941Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:14.449Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:14.964Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:15.476Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:15.998Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:16.515Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:17.029Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:17.549Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:18.063Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:18.571Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:19.085Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:19.596Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:20.108Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:20.620Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:21.133Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:21.645Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:22.158Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:22.672Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:23.182Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:23.693Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:24.202Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:24.708Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:25.214Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:25.725Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:26.231Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:26.739Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:27.255Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:27.769Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:28.278Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:28.791Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:29.302Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:29.813Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:30.325Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:30.837Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:31.347Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:31.862Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:32.374Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:32.887Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:33.400Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:33.911Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:34.424Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:34.936Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:35.446Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:35.960Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:36.472Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:36.998Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:37.507Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:38.030Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:38.540Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:39.051Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:39.579Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:40.099Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:40.626Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:41.150Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:41.663Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:42.172Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:42.682Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:43.195Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:43.719Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:44.244Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:44.755Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:45.269Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:45.783Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:46.294Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:46.811Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:47.319Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:47.843Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:48.357Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:48.866Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:49.377Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:49.883Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:50.395Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:50.907Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:51.416Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:51.929Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:52.442Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:52.951Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:53.465Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:53.991Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:54.499Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:55.013Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:55.525Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:56.035Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:56.548Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:57.063Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:57.583Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:58.098Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:58.622Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:59.144Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:42:59.659Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:00.165Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:00.679Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:01.192Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:01.714Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:02.236Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:02.746Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:03.263Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:03.782Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:04.295Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:04.819Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:05.332Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:05.848Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:06.370Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:06.882Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:07.392Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:07.900Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:08.410Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:08.926Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:09.431Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:09.944Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:10.450Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:10.964Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:11.477Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:11.988Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:12.502Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:13.012Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:13.528Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:14.052Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:14.566Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:15.095Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:15.607Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:16.120Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:16.631Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:17.144Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:17.655Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:18.167Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:18.682Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:19.197Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:19.718Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:20.229Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:20.753Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:21.261Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:21.782Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:22.299Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:22.814Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:23.327Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:23.840Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:24.352Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:24.864Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:25.389Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:25.914Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:26.431Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:26.946Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:27.458Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:27.973Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:28.488Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:29.012Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:29.543Z'
+}
+{
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 6379,
+  level: 'error',
+  message: 'RedisError connect ECONNREFUSED ::1:6379',
+  stack: 'Error: connect ECONNREFUSED ::1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:30.063Z'
+}
+{
+  message: 'Redis connected',
+  level: 'error',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:57.025Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:59.767Z'
+}
+{
+  message: 'Application  listening on port 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-10-01T15:43:59.776Z'
+}
